@@ -1,9 +1,12 @@
 # Mini-recorder-
+
 This is a recorder that can record your voice onto a sd card. Or upload music or any .mp3 format, and play it.
+
 # Why i made this?
 
 I made this bc
 i think this is kinda cool, and harder to rout it.
+
 # What does it have?
 
 It has 3 button's: play, exit, record. 1 pot. meter: for selecting what to
@@ -11,6 +14,11 @@ play. It has a oled screen, a usb-c port. the sd card holder. RP2040 chip. Also 
 # In what did i make this?
 
 I made this proiect with kicad.
+
+# How to upload the firmware.
+
+To upload the code, you gonna need to download Arduino.ide then start a new sketch, after that you gonna need to download these libraris: U8g2 (for the oled screen), and "SD" or "SdFat" ( "SD" and "SdFat" is for the SD card, you only need to download one of the two)
+After you downloaded the library's just uploade the firmware from firmware folder
 
 <img width="1920" height="944" alt="_mini recorder — PCB Editor 2026  10  25  11_02_30" src="https://github.com/user-attachments/assets/d400a694-f76e-491c-b601-a43cf10ab583" />
 <img width="1920" height="944" alt="Half Life_ become a hardware expert in 10 weeks - Google Chrome 2026  10  25  11_02_21" src="https://github.com/user-attachments/assets/c981bff8-1ee9-4ca6-b8f7-24585fa095cb" />
